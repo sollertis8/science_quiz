@@ -5,3 +5,7 @@ This is a science quiz app that tests the users knowledge about science.  The us
 ## Documentation
 
 Documentation for this app can be found at https://github.com/sollertis8/science_quiz/tree/master/documentation
+
+## Author
+
+Korrenti Mayweather (Sollertis8)
