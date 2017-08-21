@@ -83,7 +83,6 @@ Button: “Start Quiz” button
 
 
 Question Page
-
 Functions: renderQuestionPage(), handleNextButtonClicked()
 Button: “Next” Button, “Results” button
 
