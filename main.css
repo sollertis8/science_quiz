@@ -47,15 +47,11 @@ section button {
 	display: block;
 	border: 2px solid #b0ccec;
 	outline: none;
-	width: 600px;
 	height: 45px;
 	background-color: white;
 	color: black;
 	margin: 10px auto;
-	padding-left: 30px;
-	padding-right: 30px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding: 5px 30px;
 	border-radius: 5px;
 	font-size: 16px;
 }
@@ -68,7 +64,6 @@ section .results {
 	display: block;
 	border: 2px solid #b0ccec;
 	outline: none;
-	width: 600px;
 	height: 45px;
 	line-height: 45px;
 	background-color: #b0ccec;
@@ -76,8 +71,6 @@ section .results {
 	margin: 0px auto;
 	padding-left: 30px;
 	padding-right: 30px;
-	/*padding-top: 5px;
-	padding-bottom: 5px;*/
 	border-radius: 5px;
 	font-size: 16px;
 	text-align: center;
@@ -87,15 +80,12 @@ section .message {
 	display: block;
 	border: none;
 	outline: none;
-	width: 600px;
 	height: 45px;
 	background-color: white;
 	color: black;
 	margin: 10px auto;
 	padding-left: 30px;
 	padding-right: 30px;
-	/*padding-top: 5px;
-	padding-bottom: 5px;*/
 	border-radius: 5px;
 	font-size: 26px;
 	text-align: center;
@@ -135,10 +125,7 @@ section .message {
 	background-color: #1a7ff0;
 	color: white;
 	margin: 50px auto;
-	padding-left: 30px;
-	padding-right: 30px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-left: 5px 30px;
 	border-radius: 5px;
 	font-size: 24px;
 	font-weight: bold;
@@ -158,15 +145,11 @@ section .message {
 	display: block;
 	border: 2px solid #99ff99;
 	outline: none;
-	width: 600px;
 	height: 45px;
 	background-color: #99ff99;
 	color: black;
 	margin: 10px auto;
-	padding-left: 30px;
-	padding-right: 30px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding: 5px 30px;
 	border-radius: 5px;
 	font-size: 16px;
 }
@@ -175,15 +158,11 @@ section .message {
 	display: block;
 	border: 2px solid #ff3232;
 	outline: none;
-	width: 600px;
 	height: 45px;
 	background-color: #ff3232;
 	color: black;
 	margin: 10px auto;
-	padding-left: 30px;
-	padding-right: 30px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding: 5px 30px;
 	border-radius: 5px;
 	font-size: 16px;
 }
